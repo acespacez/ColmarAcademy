@@ -5,7 +5,7 @@ body {
 a {
 
 }
-/*BLOCK 1*/
+/*BLOCK 1: STARTER*/
 header {
 }
 /*Logo styling*/
@@ -25,6 +25,7 @@ header {
  nav {
 
  }
+
  ul {
 
  }
@@ -66,7 +67,9 @@ header {
 .newsQuote-img img{
 
 }
+q{
 
+}
 .newsQuote {
 
 }
@@ -103,3 +106,63 @@ header {
 .courseImg img{
 
 }
+/* BLOCK 5: Thesis Section */
+.thesis {
+
+}
+.thesis-box {
+
+}
+.video {
+
+}
+
+.video-box{
+
+}
+
+video{
+
+}
+/* thesis side showcase */
+.thesis-display {
+
+}
+.Tshowcase {
+
+}
+.Tshowcase-txt{
+
+}
+/*BLOCK 6: Finisher*/
+footer{
+
+}
+.footerbox{
+
+}
+.footerlinks{
+
+}
+/*Display Variations*/
+
+/*Mobile*/
+@media only screen and (max-width:500px) {
+
+   }
+.course-options {
+    flex-direction: column;
+  }
+
+
+/* To be hidden*/
+.course-options .courseImg img {
+  display:none;
+}
+   .course-options p {
+     display:none;
+   }
+   .cours-options {
+   height: initial;
+   width: 100%;
+ }
