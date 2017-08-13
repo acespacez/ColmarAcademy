@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto:700');
+body {
+
+}
+a {
+  
+}
+/*BLOCK 1*/
+header {
+}
+/*Logo styling*/
+.boldColmar{
+   display: inline;
+   margin: auto 0;
+   font-size: 1.2rem;
+   font-family: "Roboto",sans-serif;
+   font-weight: 700
+ }
+ .lightAcademy{
+   color:#9b9b9b;
+   font-family: "Roboto",sans-serif;
+   font-weight: light;
+ }
+ /* Nav Menu & Icons*/
+ nav {
+
+ }
+ ul {
+
+ }
+ ul li{
+
+ }
+/*-- BLOCK 2: Body Container & Banner 1*/
+
+/*Main Body Container*/
+.sitecontent-container {
+
+}
+
+
+/*Banner 1 Content*/
+.banner1content {
+
+}
+.introText {
+
+}
+.banner1button {
+
+}
+.banner1image img{
+
+}
+
+/*BLOCK 3: NEWS BOX*/
+.newsbox {
+
+}
+
+/*headline*/
+.headline {
+
+}
+
+.newsQuote-img img{
+
+}
+
+.newsQuote {
+
+}
+/*sidenews*/
+.sidenews {
+
+}
+
+.sidenews-box{
+
+}
+.sidenews-img img{
+
+}
+.sidenews-content {
+
+}
