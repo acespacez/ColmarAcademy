@@ -17,7 +17,7 @@ h4,h5,h6{
   align-items: center;
 }
 
-.thin-text {
+.quote-text {
   font-weight: 400;
 }
 
@@ -162,7 +162,7 @@ a.navlink:hover {
 }
 
 .header-start-button:hover {
-  background-color: #94C1BF;
+  background-color: #70228b;
 
 }
 
@@ -234,6 +234,7 @@ a.navlink:hover {
   justify-content: space-around;
   padding-left: 15px;
   width: 65%;
+  color:#5d737e;
 }
 
 .post-content > a {
@@ -309,16 +310,16 @@ a.navlink:hover {
 
 .course-info {
   padding-left: 16px;
-  color: #999;
+  color: #5d737e;
 }
 
 .course-info > h3 {
-  font-weight: 700;
+  font-weight: 500;
 }
 
 /* Thesis */
 .thesis {
-  color: #999999;
+  color: #5d737e;
   padding-left: 24px;
   padding-right: 24px;
   padding-top: 32px;
@@ -372,7 +373,7 @@ a.navlink:hover {
   padding-top: 25px;
   padding-bottom: 25px;
   border-top: 1px solid #999;
-  color: #999;
+  color: #5d737e;
   justify-content: space-between;
 }
 
